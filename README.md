@@ -1,3 +1,4 @@
+使用零件：ESP32(Node MCU)、CP2102
 淘寶上的八合一土壤sensor，不是網路上常出現的七合一廠商QQ
 
 ![image](https://github.com/hsuan619/getSoil/assets/100425158/54aadc42-2a51-467a-b477-e119711bb8ca)

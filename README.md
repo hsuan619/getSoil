@@ -1,4 +1,4 @@
-淘寶上的八合一土壤sensor，不是容易找到的七合一廠商，處理很久終於寫出來QQ
+淘寶上的八合一土壤sensor，不是網路上常出現的七合一廠商QQ
 
 ![image](https://github.com/hsuan619/getSoil/assets/100425158/54aadc42-2a51-467a-b477-e119711bb8ca)
 ![image](https://github.com/hsuan619/getSoil/assets/100425158/42c240b3-6781-4730-94f0-99b0087ab0c6)
